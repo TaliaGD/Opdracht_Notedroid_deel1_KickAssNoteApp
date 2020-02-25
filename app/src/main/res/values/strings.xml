@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Opdracht_Notedroid_deel1_KickAssNoteApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_btn_delete">X</string>
+    <string name="str_et_titel">Titel</string>
+    <string name="str_et_content">Details</string>
+    <string name="str_btn_safe">Safe</string>
+    <string name="str_btn_cancel">X</string>
+    <string name="str_tv_title">Title</string>
+    <string name="str_tv_content">Content</string>
+    <string name="str_tv_date">Date</string>
+    <string name="str_btn_adjust">Adjust</string>
+    <string name="str_btn_save">Save</string>
+</resources>
